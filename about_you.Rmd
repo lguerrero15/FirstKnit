@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Leilani Guerrero"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I went to Pete Knight High School, I graduated in 2021. Math and English were about the same level of difficulty for me. I wasn't bad or extraordinarily good at either. I did the best in my science classes. I did the best in Biology.     
 
      
 
